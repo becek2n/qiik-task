@@ -1,13 +1,4 @@
-/QIIK.API/bin
-/QIIK.API/obj
-/QIIK.DAO/bin
-/QIIK.DAO/obj
-/QIIK.DTO/bin
-/QIIK.DTO/obj
-/QIIK.Interface/bin
-/QIIK.Interface/obj
-/QIIK.Tests/bin
-/QIIK.Tests/obj
+
 /.vs/QIIK-TEST/DesignTimeBuild/.dtbcache.v2
 /.vs/QIIK-TEST/v16/.suo
 /.vs/QIIK-TEST/v16/TestStore/0/000.testlog
